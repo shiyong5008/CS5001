@@ -1,0 +1,2 @@
+base F
+rule F FFF-[-F+F+F]+[+F-F-F]

@@ -1,0 +1,5 @@
+base P
+rule P I+[P+O]--[--<yL>]I[++<yL>]-[PO]++PO
+rule I FS[+<yL>][-<yL>]FS
+rule S SFS
+rule O <r[++F][+F][F][-F][--F]>
